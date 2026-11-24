@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Packaging output (attach built apps to a GitHub Release instead)
+build/
+dist/
+
+# Editor and OS files
+.idea/
+.vscode/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Student records (names, birth dates) must never be committed
+sra_students.json
